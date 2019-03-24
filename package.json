@@ -1,0 +1,15 @@
+{
+  "name": "repositorio",
+  "version": "1.0.1",
+  "description": "primer trabajo",
+  "main": "historiaDeUsuario1.js",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandra maria941222@hotmail.com",
+  "license": "ISC"
+}
